@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00                                                                 Made By Trimors | youtube.com/c/trimors 
+
+ 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:0
